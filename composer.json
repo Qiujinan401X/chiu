@@ -1,0 +1,18 @@
+{
+    "name": "chiu-jn/first",
+    "description": "no description",
+    "type": "librate",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "你的名字叫什么",
+            "email": "836300592@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": { 
+        "psr-4": {
+            "lishuo\\": "src"
+        }
+    }
+}
